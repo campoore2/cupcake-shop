@@ -1,0 +1,46 @@
+.flashy {
+      font-style: italic;
+      color: red;
+
+}
+
+.best {
+      font-family: impact;
+      color: #FE6C00
+
+}
+
+nav a {
+  font-family: georgia;
+  margin: 5%;
+  border-style: dashed;
+  padding: 2px;
+  background-color: #ffccff;
+  border-align: center;
+
+}
+
+img {
+  display: inline-block;
+  width: 40%;
+  padding: 4.125%;
+  border-radius: 60%
+}
+
+body {
+  background-color: #ffccff;
+  text-align: center;
+}
+
+ol {
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
+
+a:hover {
+      color: white;
+
+}
